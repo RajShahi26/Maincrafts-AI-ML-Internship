@@ -1,7 +1,7 @@
-# Ignore the virtual environment folder
+# Ignore virtual environment
 ml_env/
 
-# Ignore Jupyter Notebook checkpoints
+# Ignore Jupyter checkpoints
 .ipynb_checkpoints/
 
 # Ignore Python cache
